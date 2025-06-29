@@ -46,3 +46,11 @@ If you encounter issues or wish to report a bug, please use the "Issues" section
 Se riscontri problemi o desideri segnalare un bug, ti invitiamo a utilizzare la sezione delle "Issues" del repository su GitHub.
 
 ## Licenza GPL 3.0
+
+---
+
+**Maintainer Update**
+
+All legacy projects from the old `@Elektronoide` GitHub account are now officially maintained by **@bocaletto-luca**. Please direct any issues, pull requests, and stars to **@bocaletto-luca** for all future updates.
+
+---
